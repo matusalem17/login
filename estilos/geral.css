@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#principal{
+    width: 100%;
+    height: 100%;
+}
+header{
+    width: 100%;
+    height: 100px;
+    background-color: goldenrod;
+    display: flex;
+    justify-content: center;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: goldenrod;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

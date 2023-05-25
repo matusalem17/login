@@ -1,0 +1,85 @@
+#logo{
+    width: 80%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+#logo img{
+    width: 50px;
+    height: 100px;
+    margin: 0px 20px;
+}
+.acesso{
+    width: auto;
+    height: auto;
+    margin: 0px 20px;
+    display: flex;
+    align-items: center;
+}
+.acesso a{
+    width: 100px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.acesso a:active{
+    width: 100px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: gold;
+}
+button{
+    background-color: goldenrod;
+}
+#conteudo{
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+}
+#conteudoCentro{
+    width: 80%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#centroFilho{
+    width: 700px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    box-shadow: 3px 3px 3px 2px;
+    padding: 20px;
+}
+#textImg{
+    width: 700px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+#textImg img{
+    width: 30px;
+    height: 30px;
+}
+#textImg h1{
+    margin: 10px;
+}
+#form{
+    width: 100px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: gold;
+}
